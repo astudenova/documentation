@@ -6,8 +6,8 @@ titles_from_heading:
   strip_title: true
   collections : true
 header_pages:
-  brainhack_doc.md
-  logistics.md
-  mailing.md
-  institutions.md
-  projects.md
+  - brainhack_doc.md
+  - logistics.md
+  - mailing.md
+  - institutions.md
+  - projects.md
