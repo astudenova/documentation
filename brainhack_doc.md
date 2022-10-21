@@ -13,9 +13,9 @@ Please follow the [link](projects.md)
 
 All the information is in the special section accessible via [link](logistics.md)
 
-/ [logistics](logistics.md)
-/ [mailing](mailing.md)
-/ [institutions](institutions.md)
+- [logistics](logistics.md)
+- [mailing](mailing.md)
+- [institutions](institutions.md)
 
 ## Team
 
